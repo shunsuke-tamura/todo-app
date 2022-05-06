@@ -1,3 +1,13 @@
+# 参考サイト
+[](https://qiita.com/tseno/items/b7133d73966c405b7249)
+
+# Version
+`node -v` -> `v16.15.0`  
+`npm -v` -> `8.5.5`
+
+# モックサーバ
+`npx json-server --watch db.json --port 3100`
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
